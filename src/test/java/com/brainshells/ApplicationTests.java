@@ -1,8 +1,8 @@
-package com.example.democards;
+package com.brainshells;
 
 import org.junit.jupiter.api.Test;
 
-class DemocardsApplicationTests {
+class ApplicationTests {
 
     @Test
     void contextLoads() {

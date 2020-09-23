@@ -1,4 +1,4 @@
-package com.example.democards;
+package com.brainshells;
 
 import org.springframework.boot.SpringApplication;
 
