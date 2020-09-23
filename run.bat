@@ -1,0 +1,1 @@
+java.exe -jar target\poker-0.0.1-SNAPSHOT.jar %1
